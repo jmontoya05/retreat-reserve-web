@@ -1,0 +1,6 @@
+{
+  "name": "Retreat Reserve",
+  "description": "Una plataforma premium de alquiler de cabañas en la naturaleza. Explora, relájate y reconecta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
